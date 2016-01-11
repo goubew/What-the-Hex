@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">What the Hex</string>
+    <string name="main_activity_numeral">Number Value</string>
+    <string name="main_activity_hex">Hex Value</string>
+    <string name="main_activity_binary">Binary Value</string>
+    <string name="main_activity_button_default">Enter a value</string>
+    <string name="main_activity_button_wrong">Try Again</string>
+    <string name="main_activity_button_numeral">Convert Number</string>
+    <string name="main_activity_button_hex">Convert Hex</string>
+    <string name="main_activity_button_binary">Convert Binary</string>
+</resources>
